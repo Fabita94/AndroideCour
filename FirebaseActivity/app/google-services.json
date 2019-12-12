@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1019411111412",
+    "firebase_url": "https://bambey2-3aa68.firebaseio.com",
+    "project_id": "bambey2-3aa68",
+    "storage_bucket": "bambey2-3aa68.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1019411111412:android:c0e3bf5da1292bca91ada1",
+        "android_client_info": {
+          "package_name": "com.bambey2019.firebaseactivity"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1019411111412-kgjq9da0jburq6i27921oa2f65nan264.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bambey2019.firebaseactivity",
+            "certificate_hash": "0ddf47d5cbb46b61a42c5e508ca4f9d487df75fe"
+          }
+        },
+        {
+          "client_id": "1019411111412-tnpjqjas3uvpplm1vnn5kh8m8gl0p9n8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASigB1suULlFNwQNQw_tndbYI2J_I603s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1019411111412-tnpjqjas3uvpplm1vnn5kh8m8gl0p9n8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
